@@ -8,6 +8,12 @@ Clone this repository.
 $ git clone https://github.com/qwercik/FirefoxDarkThemeFix.git
 ``` 
 
+Now change your directory
+
+```bash
+$ cd FirefoxDarkThemeFix
+```
+
 Then grant execution permissions to the *firefox-fix.py*.
 
 ```bash
